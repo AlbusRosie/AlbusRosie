@@ -1,7 +1,7 @@
 ## Hey there, I’m Hoài Thương 🧙‍♂️🌸
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F78DA7&center=true&vCenter=true&width=600&lines=Ho%C3%A0i+Th%C6%B0%C6%A1ng%27s+Code+Haven;Welcome+to+My+World!+✨" alt="banner">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F78DA7¢er=true&vCenter=true&width=600&lines=Ho%C3%A0i+Th%C6%B0%C6%A1ng%27s+Code+Haven;Welcome+to+My+World!+✨" alt="banner">
 </div>
 
 ✨ A curious developer weaving **backend magic**, **full-stack wonders**, and **AI-driven solutions**. Clean code, aesthetic designs, and endless learning fuel my passion!
@@ -26,7 +26,26 @@
 ---
 
 ### 💡 Tech Stack I’m Vibing With
-![My Skills](https://skillicons.dev/icons?i=js,nodejs,vue,react,html,css,java,mysql,python,django,tensorflow,git,bash,flutter,figma)
+
+#### 🎨 Frontend
+![Frontend Skills](https://skillicons.dev/icons?i=vue,react,tailwind,html,css,js)
+
+#### 🧠 Backend
+![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,java,python,flask)
+
+#### 📡 API & Middleware
+- RESTful API Design
+- Session-based Authentication
+- Middleware (validation, form-data, file uploads)
+
+#### 🗃️ Databases
+![Database Skills](https://skillicons.dev/icons?i=mysql,sqlite,mongodb)
+
+#### 🤖 AI / ML
+![AI/ML Skills](https://skillicons.dev/icons?i=tensorflow,python)
+
+#### 🖥️ Systems & Tools
+![Systems & Tools](https://skillicons.dev/icons?i=git,github,postman,ubuntu,bash,figma)
 
 ---
 
@@ -52,7 +71,7 @@
 
 ### 💖 Thanks for Dropping By!
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78DA7&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+GitHub!;Happy+Coding!+👨‍💻✨" alt="thanks">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78DA7¢er=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+GitHub!;Happy+Coding!+👨‍💻✨" alt="thanks">
 </div>
 
 <div align="center">
