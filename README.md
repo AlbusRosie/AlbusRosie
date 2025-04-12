@@ -1,15 +1,8 @@
 ## Hey there, I’m Hoài Thương 🧙‍♂️🌸
 
 <div align="center">
-  <img src="https://via.placeholder.com/1200x200/FFF0F5/FFB6C1text=Ho%C3%A0i+Th%C6%B0%C6%A1ng%27s+Code+Haven" alt="banner" style="border-radius: 15px; width: 100%; box-shadow: 0 0 20px rgba(255, 182, 193, 0.7); animation: glow 2s ease-in-out infinite alternate;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F78DA7&center=true&vCenter=true&width=600&lines=Ho%C3%A0i+Th%C6%B0%C6%A1ng%27s+Code+Haven;Welcome+to+My+World!+✨" alt="banner">
 </div>
-
-<style>
-@keyframes glow {
-  0% { box-shadow: 0 0 20px rgba(255, 182, 193, 0.7); }
-  100% { box-shadow: 0 0 30px rgba(255, 182, 193, 1); }
-}
-</style>
 
 ✨ A curious developer weaving **backend magic**, **full-stack wonders**, and **AI-driven solutions**. Clean code, aesthetic designs, and endless learning fuel my passion!
 
@@ -59,17 +52,9 @@
 
 ### 💖 Thanks for Dropping By!
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78DA7&width=435&lines=Thanks+for+visiting+my+GitHub!;Happy+Coding!+👨‍💻✨" alt="thanks">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78DA7&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+GitHub!;Happy+Coding!+👨‍💻✨" alt="thanks">
 </div>
 
 <div align="center">
-  <img src="https://via.placeholder.com/1200x80/FFF0F5/FFB6C1?text=" alt="footer" style="border-radius: 15px; width: 100%; animation: gradient 3s ease infinite;">
+  <img src="https://via.placeholder.com/1200x80/FFF0F5/FFB6C1?text=" alt="footer" style="border-radius: 15px; width: 100%;">
 </div>
-
-<style>
-@keyframes gradient {
-  0% { background: linear-gradient(90deg, #FFF0F5, #FFB6C1); }
-  50% { background: linear-gradient(90deg, #FFB6C1, #FFF0F5); }
-  100% { background: linear-gradient(90deg, #FFF0F5, #FFB6C1); }
-}
-</style>
