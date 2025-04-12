@@ -52,7 +52,6 @@
 ### ⚡ Quirky Tidbits
 - Clean code is my bubble tea: **smooth and delightful** 🧋
 - I chat with my servers during debugging—they’re my pals 🤝
-- My UIs rock white-pink vibes with “xinh dữ dậy cha” flair 😎
 - Obsessed with auth flows and snack breaks 🍪
 
 ---
