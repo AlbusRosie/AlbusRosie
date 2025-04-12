@@ -1,7 +1,7 @@
 ## Hey there, I’m Hoài Thương 🧙‍♂️🌸
 
 <div align="center">
-  <img src="https://via.placeholder.com/1200x200/FFF0F5/FFB6C1?text=Ho%C3%A0i+Th%C6%B0%C6%A1ng%27s+Code+Haven" alt="banner" style="border-radius: 15px; width: 100%; box-shadow: 0 0 20px rgba(255, 182, 193, 0.7); animation: glow 2s ease-in-out infinite alternate;">
+  <img src="https://via.placeholder.com/1200x200/FFF0F5/FFB6C1text=Ho%C3%A0i+Th%C6%B0%C6%A1ng%27s+Code+Haven" alt="banner" style="border-radius: 15px; width: 100%; box-shadow: 0 0 20px rgba(255, 182, 193, 0.7); animation: glow 2s ease-in-out infinite alternate;">
 </div>
 
 <style>
