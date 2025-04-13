@@ -4,12 +4,16 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=40&pause=1000&color=F78DA7&center=true&vCenter=true&width=600&height=100&lines=🌷+Hoài+Thương's+Home+🌺;☀️Welcome+to+My+World!+✨)](https://git.io/typing-svg)
 
-✨ A curious developer weaving **backend magic**, **full-stack wonders**, and **AI-driven solutions**. Clean code, aesthetic designs, and endless learning fuel my passion!
+Hi there! I’m Hoài Thương — a passionate developer from Việt Nam 🇻🇳 who blends a love for art and technology to craft clean, aesthetic, and meaningful digital products. I specialize in backend development, explore AI and facial recognition, and love turning creative ideas into full-stack web and mobile apps. Always curious and driven, I embrace every opportunity to learn and grow. 🌱
 
 </div>
 
 ---
 
+### 🎯 My Motto
+> "Code is my tool, art is my soul, growth is my goal." 🌱
+
+---
 
 ### 🌱 What I’m Exploring & Building
 - **Java + MySQL**: Building robust desktop systems 🍵
@@ -61,26 +65,21 @@
 
 ---
 
-### 📬 Let’s Connect
-- 📧 **Email**: [nguyenthihoaithuong.forwork@gmail.com](mailto:nguyenthihoaithuong.forwork@gmail.com)
-- 💼 **GitHub**: You’re already in my code universe!
-- 📘 **Facebook**: [Nguyễn Thương](https://www.facebook.com/theshineofAlbus/)
-- 📸 **Instagram**: [albus_rosie](https://www.instagram.com/albus_rosie/)
-- 💼 **LinkedIn**: [Nguyễn Thương](https://www.linkedin.com/in/th%C6%B0%C6%A1ng-nguy%E1%BB%85n-071011360/)
+### 🤝 Let’s Connect
+- ✉️ **Email**: [nguyenthihoaithuong.forwork@gmail.com](mailto:nguyenthihoaithuong.forwork@gmail.com)  
+- 💻 **GitHub**: You’re already in my code universe!  
+- 🌐 **Facebook**: [Nguyễn Thương](https://www.facebook.com/theshineofAlbus/)  
+- 📷 **Instagram**: [albus_rosie](https://www.instagram.com/albus_rosie/)  
+- 👩‍💼 **LinkedIn**: [Nguyễn Thương](https://www.linkedin.com/in/th%C6%B0%C6%A1ng-nguy%E1%BB%85n-071011360/)
 
 ---
-
-### 🎯 My Motto
-> "Code smart, stay kind." 🌱
-
----
-
-### 💖 Thanks for Dropping By!
-<div style="text-align: center;">
-  <h3>🩷 Thanks for Dropping By! 🩷</h3>
+<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&pause=1000&color=F78DA7&center=true&vCenter=true&width=500&lines=Thanks+for+Visiting!+🩷;Happy+Coding!+✨🧋" 
-    alt="footer">
-  <p>────── 🎀 ❀ 🎀 ──────</p>
-  <p>🐾 Made with Love by Hoài Thương 🐾</p>
+    src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&pause=1000&color=F78DA7&center=true&vCenter=true&width=500&lines=Thanks+for+Visiting!;Happy+Coding!+✨🧋" 
+    alt="Thanks for Visiting" 
+    style="margin-bottom: 10px;"
+  />
+  <div style="font-size: 16px; color: #555; margin-top: 8px;">
+    <strong>🌸 Stay inspired, stay curious, and keep building beautiful things 🌸</strong>
+  </div>
 </div>
