@@ -1,65 +1,72 @@
-## Hey there, I’m Hoài Thương 🧙‍♂️🌸
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F78DA7¢er=true&vCenter=true&width=600&lines=Ho%C3%A0i+Th%C6%B0%C6%A1ng%27s+Code+Haven;Welcome+to+My+World!+✨" alt="banner">
-</div>
+  
+# ☀️ Hello, I'm from Việt Nam 🌤️
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=40&pause=1000&color=F78DA7&center=true&vCenter=true&width=600&height=100&lines=🌷+Hoài+Thương's+Home+🌺;☀️Welcome+to+My+World!+✨)](https://git.io/typing-svg)
 
 ✨ A curious developer weaving **backend magic**, **full-stack wonders**, and **AI-driven solutions**. Clean code, aesthetic designs, and endless learning fuel my passion!
 
+</div>
+
 ---
+
 
 ### 🌱 What I’m Exploring & Building
-- **MERN Stack**: Crafting scalable, seamless apps ⚙️
-- **JavaFX + MySQL**: Building robust desktop systems 🍵
-- **TensorFlow & Naive Bayes**: Creating intelligent models 🤖
+- **Java + MySQL**: Building robust desktop systems 🍵
 - **Tesseract OCR**: Extracting text from images 🖼️📜
-- **Vue + Tanstack Query**: Designing sleek, responsive UIs 🎨
+- **HTML/CSS/JS/PHP + MySQL**: Crafting dynamic web apps and database systems 🌐
+- **Dart + Flutter + Pocketbase**: Building sleek mobile apps 📱
+- **DeepFace + TensorFlow**: Exploring facial recognition and AI models 🤖
+- **NetAnim**: Simulating and visualizing network systems 🔍
+- **Vue + Tanstack Query**: Designing responsive, modern UIs 🎨
 
 ---
 
-### 🔭 Projects I’m Excited About
-- **Job Placement System**: Linking talent with opportunities 💼
-- **Image Search Engine**: Powered by BERT and natural language 🔍
-- **Restaurant Management System**: Chic UI, smooth DBMS workflows 🍽️
+### 🌷 Projects I’m Excited About
+- **Ordering and Reservation Web**: Streamlining bookings with a user-friendly interface 📅
+- **The Movie Website**: A dynamic movie platform built with HTML, CSS, PHP, JavaScript, and MySQL for seamless database management 🎬
+- **Student Attendance and Emotion Analysis System**: Leverages DeepFace for facial recognition and emotion detection to track attendance and assess student engagement via a web interface 📊
+- **Cosmetic Supermarket Mobile App**: Ordering cosmetics with Dart, Flutter, and Pocketbase for a smooth mobile experience 🛍️
+- **Restaurant Management System**: DBMS workflows 🍽️
 - **Low-Rate DDoS Simulation**: Visualizing attacks with NetAnim 🌐
 
----
+### 💡 Tech Stack I’m Vibing With 💻
 
-### 💡 Tech Stack I’m Vibing With
+#### 🖌️ Programming Languages  
+![Programming Languages](https://skillicons.dev/icons?i=c,cpp,cs,java,python,php,js,dart)
 
-#### 🎨 Frontend
-![Frontend Skills](https://skillicons.dev/icons?i=vue,react,tailwind,html,css,js)
+#### 🎨 Frontend Development  
+![Frontend Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,vue,react,flutter)
 
-#### 🧠 Backend
-![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,java,python,flask)
+#### 🧠 Backend Development  
+![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,flask,django,dotnet)
 
-#### 📡 API & Middleware
-- RESTful API Design
-- Session-based Authentication
-- Middleware (validation, form-data, file uploads)
-
-#### 🗃️ Databases
+#### 🗃️ Databases  
 ![Database Skills](https://skillicons.dev/icons?i=mysql,sqlite,mongodb)
 
-#### 🤖 AI / ML
-![AI/ML Skills](https://skillicons.dev/icons?i=tensorflow,python)
+#### 🤖 AI / Machine Learning  
+![AI/ML Skills](https://skillicons.dev/icons?i=tensorflow)
 
-#### 🖥️ Systems & Tools
-![Systems & Tools](https://skillicons.dev/icons?i=git,github,postman,ubuntu,bash,figma)
+#### 🖥️ DevOps & Systems  
+![DevOps & Systems](https://skillicons.dev/icons?i=nginx,ubuntu,bash)
 
----
+#### 🛠️ Development Tools  
+![Development Tools](https://skillicons.dev/icons?i=git,github,postman,idea,eclipse,netbeans)
 
-### ⚡ Quirky Tidbits
-- Clean code is my bubble tea: **smooth and delightful** 🧋
-- I chat with my servers during debugging—they’re my pals 🤝
-- Obsessed with auth flows and snack breaks 🍪
+#### 🎨 Design Tools  
+![Design Tools](https://skillicons.dev/icons?i=figma)
+
+#### 📦 Others  
+![PocketBase](https://img.shields.io/badge/PocketBase-3796EF?style=for-the-badge&logo=pocketbase&logoColor=white)
 
 ---
 
 ### 📬 Let’s Connect
-- 📧 Email: *Ping me, and I’ll share!* 😉
-- 💼 GitHub: You’re already in my code universe!
-- 🧠 Ask me about: Backend architecture, Naive Bayes, UX, or my latest snack craze 🍬
+- 📧 **Email**: [nguyenthihoaithuong.forwork@gmail.com](mailto:nguyenthihoaithuong.forwork@gmail.com)
+- 💼 **GitHub**: You’re already in my code universe!
+- 📘 **Facebook**: [Nguyễn Thương](https://www.facebook.com/theshineofAlbus/)
+- 📸 **Instagram**: [albus_rosie](https://www.instagram.com/albus_rosie/)
+- 💼 **LinkedIn**: [Nguyễn Thương](https://www.linkedin.com/in/th%C6%B0%C6%A1ng-nguy%E1%BB%85n-071011360/)
 
 ---
 
@@ -69,10 +76,11 @@
 ---
 
 ### 💖 Thanks for Dropping By!
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78DA7¢er=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+GitHub!;Happy+Coding!+👨‍💻✨" alt="thanks">
-</div>
-
-<div align="center">
-  <img src="https://via.placeholder.com/1200x80/FFF0F5/FFB6C1?text=" alt="footer" style="border-radius: 15px; width: 100%;">
+<div style="text-align: center;">
+  <h3>🩷 Thanks for Dropping By! 🩷</h3>
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&pause=1000&color=F78DA7&center=true&vCenter=true&width=500&lines=Thanks+for+Visiting!+🩷;Happy+Coding!+✨🧋" 
+    alt="footer">
+  <p>────── 🎀 ❀ 🎀 ──────</p>
+  <p>🐾 Made with Love by Hoài Thương 🐾</p>
 </div>
