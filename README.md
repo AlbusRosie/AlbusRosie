@@ -39,29 +39,16 @@ Hi there! I’m Hoài Thương — a passionate developer from Việt Nam 🇻�
 #### 🖌️ Programming Languages  
 ![Programming Languages](https://skillicons.dev/icons?i=c,cpp,cs,java,python,php,js,dart)
 
-#### 🎨 Frontend Development  
-![Frontend Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,vue,react,flutter)
-
-#### 🧠 Backend Development  
-![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,flask,django,dotnet)
-
 #### 🗃️ Databases  
-![Database Skills](https://skillicons.dev/icons?i=mysql,sqlite,mongodb)
+![Databases](https://skillicons.dev/icons?i=mysql,sqlite,mongodb)
 
-#### 🤖 AI / Machine Learning  
-![AI/ML Skills](https://skillicons.dev/icons?i=tensorflow)
+#### 🧩 Frameworks & Libraries  
+![Frameworks & Libraries](https://skillicons.dev/icons?i=flutter,react,vue,bootstrap,tailwind,nodejs,express,flask,django,dotnet,tensorflow)
 
-#### 🖥️ DevOps & Systems  
-![DevOps & Systems](https://skillicons.dev/icons?i=nginx,ubuntu,bash)
-
-#### 🛠️ Development Tools  
-![Development Tools](https://skillicons.dev/icons?i=git,github,postman,idea,eclipse,netbeans)
-
-#### 🎨 Design Tools  
-![Design Tools](https://skillicons.dev/icons?i=figma)
-
-#### 📦 Others  
+#### 🛠️ Tools & Platforms  
+![Tools & Platforms](https://skillicons.dev/icons?i=git,github,postman,idea,eclipse,nginx,ubuntu,bash,figma)  
 ![PocketBase](https://img.shields.io/badge/PocketBase-3796EF?style=for-the-badge&logo=pocketbase&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans&logoColor=white)
 
 ---
 
